@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Bit by Bit</title><link href="http://bbb.aesirpss.com/" rel="alternate"></link><link href="http://bbb.aesirpss.com/feeds%5Cbitassassin.atom.xml" rel="self"></link><id>http://bbb.aesirpss.com/</id><updated>2014-09-15T15:33:00-07:00</updated><entry><title>Bit by Bit is Borned.</title><link href="http://bbb.aesirpss.com/bit-by-bit-is-borned.html" rel="alternate"></link><updated>2014-09-15T15:33:00-07:00</updated><author><name>BitAssassin</name></author><id>tag:bbb.aesirpss.com,2014-09-15:bit-by-bit-is-borned.html</id><summary type="html">&lt;p&gt;Greetings. I'll be using this blog format to make updates about code and projects I am working on, and how they are progressing. &lt;/p&gt;
+&lt;p&gt;This is my first github-pages site, so bear with me if I completely screw the pooch. What follows is a quick list of things I'm working on:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Raspberry Pi Thin Clients in a production RDP Farm.&lt;/li&gt;
+&lt;li&gt;Raspberry Pi Dead-Drop boxes.&lt;/li&gt;
+&lt;li&gt;Mini-UAVs with distributed processing.&lt;/li&gt;
+&lt;li&gt;A Backpack Comp.&lt;/li&gt;
+&lt;li&gt;CTRL-H/Laserbird, a hackerspace in PDX.&lt;/li&gt;
+&lt;li&gt;A virtualized multiple desktop environment for Oculus DK2.&lt;/li&gt;
+&lt;li&gt;A game thing, based on multidimensional theory (loosely) and rebooting the planet.&lt;/li&gt;
+&lt;li&gt;Integrating hacking tools into sweeter hacker tools. (Pen automation/over-engineering type crap. I suck at it right now.)&lt;/li&gt;
+&lt;li&gt;Rooting an Alcatel W800O. (Pretty much failed.)&lt;/li&gt;
+&lt;li&gt;Connecting things to other things they shouldn't be connected to.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Email me at bitassassin@aesirpss.com&lt;/p&gt;</summary></entry></feed>
